@@ -1,5 +1,6 @@
 # pi-estimator
-Estimating the value of pi using a polygon with infinite sides. Made as a part of Prakalpa 2019.
+Estimating the value of pi using using the area of a polygon.<br>
+Made as a part of Prakalpa 2019.
 
 ## Team
 
